@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\HW6-ExceptionsHandling\02.MethodToRead10Numbers\bin\Debug\02.MethodToRead10Numbers.exe.config
+D:\Telerik kurs\C# PartII\Homeworks\HW6-ExceptionsHandling\02.MethodToRead10Numbers\bin\Debug\02.MethodToRead10Numbers.exe.config
+D:\Telerik kurs\C# PartII\Homeworks\HW6-ExceptionsHandling\02.MethodToRead10Numbers\bin\Debug\02.MethodToRead10Numbers.exe
+D:\Telerik kurs\C# PartII\Homeworks\HW6-ExceptionsHandling\02.MethodToRead10Numbers\bin\Debug\02.MethodToRead10Numbers.pdb
+D:\Telerik kurs\C# PartII\Homeworks\HW6-ExceptionsHandling\02.MethodToRead10Numbers\obj\Debug\02.MethodToRead10Numbers.csprojResolveAssemblyReference.cache
+D:\Telerik kurs\C# PartII\Homeworks\HW6-ExceptionsHandling\02.MethodToRead10Numbers\obj\Debug\02.MethodToRead10Numbers.exe
+D:\Telerik kurs\C# PartII\Homeworks\HW6-ExceptionsHandling\02.MethodToRead10Numbers\obj\Debug\02.MethodToRead10Numbers.pdb
